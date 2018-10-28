@@ -1,3 +1,3 @@
-# Multi-User Authentication Tutorail
+# Multi-User Authentication
 
-_Produced by DevMarketer_
+_Rejaul Karim_
